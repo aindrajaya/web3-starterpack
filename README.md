@@ -92,9 +92,9 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    $ npm run dev
    ```
-4. Running the Hardhat
+4. Testing the hardhat configuration
    ```sh
-   $ npx hardhat
+   $ npx hardhat test
    ```   
 5. Do the configuration
 
