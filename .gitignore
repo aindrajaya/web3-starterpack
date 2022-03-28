@@ -1,0 +1,20 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+build
+
+#Hardhat files
+cache
+artifacts
+
+#notes
+notes.md
+
+#lock file
+yarn.lock
+package-lock.json
+
+# DS STORE
+.DS_Store
